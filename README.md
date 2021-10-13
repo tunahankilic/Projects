@@ -14,4 +14,4 @@ You can access my postgraduate group project by clicking [here](https://htmlprev
 
 ## Kaggle's 30 Days of ML Competition
 
-You can access my 30 Days of ML Program competition of Kaggle notebook by clicking [here](https://www.kaggle.com/tunahankilic/getting-started-with-30-days-of-ml-competition?scriptVersionId=73840609)
+You can access my 30 Days of ML Program competition of Kaggle notebook by clicking [here]
